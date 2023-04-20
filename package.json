@@ -1,0 +1,23 @@
+{
+  "name": "remixicon-miniprogram",
+  "version": "3.2.0",
+  "author": "Jimmy Cheung <jimmy@remixdesign.cn>",
+  "description": "Remix Icon for miniprogram",
+  "homepage": "https://remixicon.com",
+  "keywords": [
+    "remixicon", "remix", "icon", "icon library", "icon pack"
+  ],
+  "files": [
+    "miniprogram_dist/",
+    "License",
+    "package.json",
+    "README.md"
+  ],
+  "license": "Apache 2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deajax/remixicon-miniprogram.git"
+  },
+  "bugs": "https://github.com/deajax/remixicon-miniprogram/issues",
+  "contributors": ["Wendy Gao <wendygaoyuan@163.com>", "Jimmy Cheung <jimmy@remixdesign.cn>"]
+}
